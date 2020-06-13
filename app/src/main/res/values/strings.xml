@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MemoList Kotlin - Baptiste LECHAT</string>
+    <string name="memoHint">Titre (⚠ 25 caractères max.)</string>
+    <string name="Description">Description</string>
+    <string name="help">Help</string>
+    <string name="ynov">M1 LMIOT</string>
+    <string name="add">+</string>
+    <string name="deleteAll">Supprimer tous les mémos</string>
+    <string name="blank_fragment">A blank fragment</string>
+
+
+    <string name="m_mo_n_1">Mémo n°1</string>
+</resources>
